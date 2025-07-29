@@ -6,7 +6,7 @@ This organisation contains work by the Health Economics team at the University o
 
 ## Repositories
 
-* [hums-responsiveness](https://github.com/exeterhems/hums_responsiveness) - stata do-files from the analysis performed for "Comparative responsiveness of preference-based health-related quality of life, social care and wellbeing, condition-specific and generic measures in the context of multiple sclerosis"
+* [hums-responsiveness](https://github.com/exeterhems/hums_responsiveness) - stata do-files from the analysis performed for "Comparative responsiveness of preference-based health-related quality of life, social care and wellbeing measures in the context of multiple sclerosis"
 
 ## Publications
 
